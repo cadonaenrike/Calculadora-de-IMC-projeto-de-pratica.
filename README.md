@@ -2,6 +2,8 @@
 
 
  Projeto de prática de uma calculadora de IMC <br><br>
+ ## 🚀 Exemplo de execução <br>
+![massivepower](https://user-images.githubusercontent.com/95323804/226181540-a44e61e0-e14f-48f0-b6df-386d204899db.gif)
 ## 🚀 Começando <br><br>
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste. <br>
 Faça o Gitclone com esse link: https://github.com/cadonaenrike/Calculadora-de-IMC-projeto-de-pratica..git<br><br>
@@ -20,5 +22,4 @@ Faça o Gitclone com esse link: https://github.com/cadonaenrike/Calculadora-de-I
 * [GROWDEV](https://www.growdev.com.br/).
 * [Professores da 7º e da 14º do programa STARTER](https://www.growdev.com.br/).
 * Divulgue esse projeto para me ajudar a obter a primeira vaga. 📢.<br><br>
-## 🚀 Exemplo de execução <br>
-![massivepower](https://user-images.githubusercontent.com/95323804/226181540-a44e61e0-e14f-48f0-b6df-386d204899db.gif)
+
